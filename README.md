@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 ![Agent Zero](/docs/res/header.png)
 
