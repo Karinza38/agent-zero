@@ -1,5 +1,5 @@
 # Use the latest slim version of Debian
-FROM debian:bookworm-slim
+FROM debian:12.11-slim
 
 # Check if the argument is provided, else throw an error
 ARG BRANCH
